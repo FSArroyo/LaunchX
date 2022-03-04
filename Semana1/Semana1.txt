@@ -1,0 +1,22 @@
+Sistema de login
+Establecer roles de usuario
+Formulario para demandas
+Pago de transacciones
+Sistema con notificaciones
+Conversion del formulario a un formato Word
+Dashboard de ingresos recibidos
+Procesos de avance de las demandas (Estado actual)
+Comentarios dentro de las demandas para los usuarios implicados
+Diseño responsive
+
+Buyer persona
+https://www.hubspot.es/make-my-persona?persona=-MxBto5fA4FuyQ4iOq6V
+
+Publico Objetivo
+https://miro.com/app/board/uXjVOIBVI2U=/?invite_link_id=576707759625
+
+Wireframes
+https://miro.com/app/board/uXjVOIG6IqY=/?invite_link_id=410289989776
+
+UI
+https://www.figma.com/file/nspD4dOdnaBgUcF7p7lRHE/Untitled?node-id=0%3A1
